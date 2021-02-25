@@ -7,7 +7,7 @@ Go to the main.dart file of your project and find the MaterialApp widget. Pick a
 ```
 MaterialApp(
   debugShowCheckedModeBanner: false,
-  title: 'KOÇTAŞ Dijital İptal Anahtarı',
+  title: 'Flutter App',
   theme: ThemeData(
     primarySwatch: generateMaterialColor(color: Color(0xFF113861)),
   ),
