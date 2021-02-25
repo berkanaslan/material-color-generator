@@ -1,6 +1,6 @@
 name: material_color_generator
 description: A package for generating a material color palette with HEX Color.
-version: 1.0.1
+version: 1.0.2
 homepage: https://github.com/berkanaslan/material-color-generator
 repository: https://github.com/berkanaslan/material-color-generator
 documentation: https://github.com/berkanaslan/material-color-generator
