@@ -1,5 +1,9 @@
 ## [1.0.0] 
 
+* README.md updated.
+
+## [1.0.0] 
+
 * Example added.
 * README.md updated.
 
