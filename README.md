@@ -1,6 +1,20 @@
 # material_color_generator
+A flutter package. See this: https://pub.dev/packages/material_color_generator
 
-A new Flutter package.
+This package allows you to get a material color palette by giving any HEX color. Pretty simple, pretty plain.
+
+## How can i use this?
+Go to the main.dart file of your project and find the MaterialApp widget. Pick any hex color and use with generateMaterialColor() method. It's done.
+```
+MaterialApp(
+  debugShowCheckedModeBanner: false,
+  title: 'Flutter App',
+  theme: ThemeData(
+    primarySwatch: generateMaterialColor(color: Color(0xFF113861)),
+  ),
+);
+```
+
 
 ## Getting Started
 
