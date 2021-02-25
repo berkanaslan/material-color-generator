@@ -1,3 +1,8 @@
+## [1.0.0] 
+
+* Example added.
+* README.md updated.
+
 ## [0.0.9] 
 
 * Project published.
