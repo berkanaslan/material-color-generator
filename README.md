@@ -1,6 +1,4 @@
 # material_color_generator
-A flutter package. See this: https://pub.dev/packages/material_color_generator
-
 This package allows you to get a material color palette by giving any HEX color. Pretty simple, pretty plain.
 
 ## How can i use this?
