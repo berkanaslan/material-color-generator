@@ -1,12 +1,12 @@
 name: material_color_generator
 description: A package for generating a material color palette with HEX Color.
-version: 1.0.2
+version: 1.1.0
 homepage: https://github.com/berkanaslan/material-color-generator
 repository: https://github.com/berkanaslan/material-color-generator
 documentation: https://github.com/berkanaslan/material-color-generator
 
 environment:
-  sdk: ">=2.7.0 <3.0.0"
+  sdk: '>=2.12.0 <3.0.0'
   flutter: ">=1.17.0"
 
 dependencies:
