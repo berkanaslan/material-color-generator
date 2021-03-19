@@ -1,3 +1,7 @@
+## [1.1.0] 
+
+* Null safety supporting added.
+
 ## [1.0.2] 
 
 * README.md updated.
